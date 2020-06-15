@@ -10,5 +10,5 @@ export const axios_instance = axios.create({
   headers: {
     "Content-Type": "application/x-www-form-urlencoded"
   },
-  baseURL: "http://www.codeboy.com/mfresh/data/"
+  baseURL: "http://101.96.128.94:9999/mfresh/data/"
 });
